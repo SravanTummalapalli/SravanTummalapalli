@@ -52,6 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://github.com/SravanTummalapalli/SravanTummalapalli/blob/main/Sravan%20Tummalapalli.png)
 
+## 📊 **Explore My Data Stories**: [![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/siva.ram.sravan.tummalapalli)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SravanTummalapalli&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
