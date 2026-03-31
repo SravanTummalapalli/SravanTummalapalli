@@ -5,18 +5,18 @@
 </H1>
 
 
-### Hey Guys, Heart Fully Thanks For Visit My Profile
+### **Hey guys, heartfelt thanks for visiting my profile!**
 
 ![helo](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
 
 
 - 👋 Hi, I’m **Siva Ram Sravan Tummalapalli**
-- 👀 I like exploring things in data science.
+- 👀 I enjoy exploring problems and insights in data science.
 - 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
-- 💬 My aim **I want to create a new invention in Data Science field**
+- 💬 My aim is to **create innovative solutions in the field of Data Science.**
 - 📫 𝐌𝐚𝐢𝐥 𝐌𝐞: sravantummalapalli@gmail.com
-- Fact about me: Still searching 
+- Fact about me: Curious learner, always searching for new ideas.
 
 <!---
 SravanTummalapalli/SravanTummalapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Alterxy](https://img.shields.io/badge/alteryx-18BFFF?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
